@@ -1,5 +1,5 @@
 # Defines the first layer of the whole container, the image that contains the .NET Core image
-FROM microsoft/dotnet:2.2.0-aspnetcore-runtime AS base
+FROM microsoft/dotnet:2.2.0-aspnetcore-runtime
 
 # Copy all files inside publish/netcoreapp2.2 from the project itself to "/app" folder inside the container
 COPY ./bin/Release/netcoreapp2.2/ /app
