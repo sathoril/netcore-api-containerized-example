@@ -1,0 +1,14 @@
+/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/bin/Debug/netcoreapp2.2/containerized-api.deps.json
+/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/bin/Debug/netcoreapp2.2/containerized-api.runtimeconfig.json
+/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/bin/Debug/netcoreapp2.2/containerized-api.runtimeconfig.dev.json
+/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/bin/Debug/netcoreapp2.2/containerized-api.dll
+/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/bin/Debug/netcoreapp2.2/containerized-api.pdb
+/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/obj/Debug/netcoreapp2.2/containerized-api.csprojAssemblyReference.cache
+/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/obj/Debug/netcoreapp2.2/containerized-api.csproj.CoreCompileInputs.cache
+/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/obj/Debug/netcoreapp2.2/containerized-api.RazorAssemblyInfo.cache
+/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/obj/Debug/netcoreapp2.2/containerized-api.RazorAssemblyInfo.cs
+/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/obj/Debug/netcoreapp2.2/containerized-api.AssemblyInfoInputs.cache
+/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/obj/Debug/netcoreapp2.2/containerized-api.AssemblyInfo.cs
+/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/obj/Debug/netcoreapp2.2/containerized-api.RazorTargetAssemblyInfo.cache
+/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/obj/Debug/netcoreapp2.2/containerized-api.dll
+/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/obj/Debug/netcoreapp2.2/containerized-api.pdb
