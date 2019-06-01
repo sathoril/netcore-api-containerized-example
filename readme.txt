@@ -1,6 +1,6 @@
 // Commands for deploy .NET CORE WEBAPI to a docker container
 
-1 - Build the application with "dotnet build -c Release
+1 - Build the application with "dotnet build -c Release"
 
 2 - Build the docker image executing the command "docker build -t <image-name> ." where the Dockerfile is
 
