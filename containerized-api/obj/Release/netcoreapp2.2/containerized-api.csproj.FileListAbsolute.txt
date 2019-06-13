@@ -12,3 +12,17 @@
 /home/bruno/Projetos/netcore-api-containerized-example/containerized-api/obj/Release/netcoreapp2.2/containerized-api.RazorTargetAssemblyInfo.cache
 /home/bruno/Projetos/netcore-api-containerized-example/containerized-api/obj/Release/netcoreapp2.2/containerized-api.dll
 /home/bruno/Projetos/netcore-api-containerized-example/containerized-api/obj/Release/netcoreapp2.2/containerized-api.pdb
+/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/bin/Release/netcoreapp2.2/containerized-api.deps.json
+/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/bin/Release/netcoreapp2.2/containerized-api.runtimeconfig.json
+/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/bin/Release/netcoreapp2.2/containerized-api.runtimeconfig.dev.json
+/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/bin/Release/netcoreapp2.2/containerized-api.dll
+/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/bin/Release/netcoreapp2.2/containerized-api.pdb
+/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/obj/Release/netcoreapp2.2/containerized-api.csprojAssemblyReference.cache
+/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/obj/Release/netcoreapp2.2/containerized-api.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/obj/Release/netcoreapp2.2/containerized-api.RazorAssemblyInfo.cache
+/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/obj/Release/netcoreapp2.2/containerized-api.RazorAssemblyInfo.cs
+/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/obj/Release/netcoreapp2.2/containerized-api.AssemblyInfoInputs.cache
+/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/obj/Release/netcoreapp2.2/containerized-api.AssemblyInfo.cs
+/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/obj/Release/netcoreapp2.2/containerized-api.RazorTargetAssemblyInfo.cache
+/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/obj/Release/netcoreapp2.2/containerized-api.dll
+/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/obj/Release/netcoreapp2.2/containerized-api.pdb

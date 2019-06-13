@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/containerized-api.csproj": {}
+    "/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/containerized-api.csproj": {}
   },
   "projects": {
-    "/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/containerized-api.csproj": {
+    "/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/containerized-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/containerized-api.csproj",
+        "projectUniqueName": "/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/containerized-api.csproj",
         "projectName": "containerized-api",
-        "projectPath": "/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/containerized-api.csproj",
+        "projectPath": "/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/containerized-api.csproj",
         "packagesPath": "/home/bruno/.nuget/packages/",
-        "outputPath": "/home/bruno/Projetos/netcore-api-containerized-example/containerized-api/obj/",
+        "outputPath": "/home/bruno/Documents/Projetos/netcore-api-containerized-example/containerized-api/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
